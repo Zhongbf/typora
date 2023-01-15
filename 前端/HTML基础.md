@@ -3770,7 +3770,11 @@ YouTobe 的视频有一个唯一ID（网址后面：ih1l6wb7LhU），您可以�
 
 ## 自定义HTML5 播放器控件
 
-### Video.js
+videojs官网：videojs.com
+
+中文文档：https://gitcode.gitcode.host/docs-cn/video.js-docs-cn/index.html
+
+### Video.js 
 
 Video.js 是一个围绕原生视频元素的可扩展框架/库
 
@@ -3784,11 +3788,11 @@ Video.js 是一个围绕原生视频元素的可扩展框架/库
 
 
 
-#### 快速使用
+#### 安装
 
-j加载 Video 的方法：
+加载 Video 的方法：
 
-1、CDM直接引入
+1、CDN直接引入
 
 ~~~html
 <link href="//vjs.zencdn.net/7.10.2/video-js.min.css" rel="stylesheet">
@@ -3801,31 +3805,17 @@ j加载 Video 的方法：
 npm install --save-dev video.js
 ~~~
 
-较早版本的 Video.js (6或更早版本)中，在 vjs.zencdn.net CDN 托管版本中，包含一个Google Analytics pixel收集用户信息分析。想要禁用分析，可以包含下面脚本
-
-~~~html
-<script>window.HELP_IMPROVE_VIDEOJS = false;</script>
-~~~
-
-或者，您可以通过从 npm 获取 Video.js，从 GitHub 发布版本下载，或者通过 unpkg 或另一个 JavaScript CDN (如 CDNjs)包含 Video.js。这些版本根本不包括谷歌分析跟踪
-
-~~~html
-<!-- unpkg : use the latest version of Video.js -->
-<link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
-<script src="https://unpkg.com/video.js/dist/video.min.js"></script>
-
-<!-- unpkg : use a specific version of Video.js (change the version numbers as necessary) -->
-<link href="https://unpkg.com/video.js@7.10.2/dist/video-js.min.css" rel="stylesheet">
-<script src="https://unpkg.com/video.js@7.10.2/dist/video.min.js"></script>
-
-<!-- cdnjs : use a specific version of Video.js (change the version numbers as necessary) -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video-js.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video.min.js"></script>
-~~~
-
-Js 版本7(和更新的) CDN 构建不会向 Google Analytics 发送任何数据。
+> 注意
+>
+> 较早版本的 Video.js (6或更早版本)中，在 vjs.zencdn.net CDN 托管版本中，包含一个Google Analytics pixel收集用户信息分析。想要禁用分析，可以包含下面脚本
+>
+> `<script>window.HELP_IMPROVE_VIDEOJS = false;</script>`
+>
+> 或者，您可以通过从 npm 获取 Video.js，从 GitHub 发布版本下载，或者通过 unpkg 或另一个 JavaScript CDN (如 CDNjs)包含 Video.js。这些版本根本不包括谷歌分析跟踪
 
 
+
+#### 快速使用
 
 **自动设置**
 
@@ -3944,5 +3934,144 @@ player.on('ready', function() {
 
 
 
+#### 配置
 
+初始化播放器的时候，video标签的data-setup属性和videojs函数的第二个参数，都可以传一个对象, 用来初始化播放器的一些配置信息
+
+##### 常用基础配置
+
+###### autoplay（自动播放）
+
+> 注意：
+> 1、自动播放属性和选项并不能保证视频会自动播放，浏览器对自动播放的支持不同，永远不要假设自动播放会起作用
+> 2、如果在video标签上设置了autoplay，options上的设置就会失效
+> 3、通过该player.play()方法进行程序化自动播放，避免使用autoplay属性/选项
+>
+> 4、使用`muted`属性/选项将提高自动播放成功的机会
+
+~~~js
+// type：string|boolean
+autoplay:false|true|muted|play|any
+~~~
+
+- true:：开启自动播放
+- false：关闭自动播放
+- muted：将会把播放器设置成静音，然后调用play() 实现自动播放
+- play：将会调用play()实现自动播放。
+- any：将会调用play实现自动播放，如果不能播放，则会把播放器设置成静音状态，再调用play()
+
+> CND方式引入无论设置什么值都不能实现自动播放，使用npm包引入video.js，设置autoplay为’muted’或者’any’可以实现自动播放。
+
+###### controls（显示控件）
+
+~~~js
+controls:true | false
+~~~
+
+###### height（高度）/ width（宽度）
+
+设置播放器的高度和宽度，单位是px。
+
+~~~js
+// string|munber
+height: "900",
+width: "1600"
+~~~
+
+###### loop（循环播放）
+
+~~~js
+// type: boolean
+loop: true
+~~~
+
+###### muted（静音）
+
+~~~js
+// type: boolean
+muted: true
+~~~
+
+###### poster
+
+视频播放前显示的图片
+
+~~~js
+// type:string
+poster: "https://vjs.zencdn.net/v/oceans.png"
+~~~
+
+###### preload（预加载）
+
+向浏览器建议是否应该在 <video> 元素加载后立即开始下载视频数据
+
+~~~js
+// type: string
+preloas: "auto"
+~~~
+
+- auto：立即开始加载视频（如果浏览器支持的话）一些移动设备不会预先加载视频，以保护其用户的带宽 / 数据使用。（推荐）
+- metadata：只加载视频的元数据，其中包括视频的持续时间和尺寸等信息。有时，元数据将通过下载几帧视频来加载
+- none：不要预装任何数据。浏览器将等待，直到用户点击“播放”开始下载
+
+###### src（视频源地址）
+
+要嵌入的视频源的源 URL
+
+~~~js
+// type:string
+src: "https://vjs.zencdn.net/v/oceans.mp4"
+~~~
+
+
+
+##### Specific Options
+
+除非另有说明，否则默认情况下每个选项都是未定义的
+
+###### aspectRatio（宽高比）
+
+设置aspectRatio后，播放器大小将不再是固定的值，播放器大小会根据aspectRatio的值动态计算得到。aspectRatio的值为一个比例，如4:3或者16:9
+
+你也可以通过给video设置特定的class，如vjs-16-9, vjs-9-16, vjs-4-3，vjs-1-1来实现同样的效果。
+
+设置了aspectRatio后，设置width和height就不起作用了
+
+~~~js
+// type:string
+aspectRatio: "4:3"
+~~~
+
+###### audioOnlyMode（音频模式）
+
+设置位`true`，隐藏跟视频有关的组件
+
+~~~js
+// type: boolean
+audioOnlyMode: true
+~~~
+
+###### audioPosterMode
+
+设置为`true`，会一直持续显示poster图像
+
+~~~js
+// type: boolean
+audioPosterMode: true
+~~~
+
+###### autoSetup
+
+是否允许使用video的data-setup属性启动播放器
+
+这必须在加载 videojs 时使用 videojs.options.autoSetup = false 全局设置才能生效。
+
+~~~js
+// 加载video前设置
+videojs.options.autoSetup = false
+~~~
+
+###### breakpoints
+
+响应式设备时，通过设置breakpoints，实现播放器使用那个class，根据播放器的大小调整ui样式
 
