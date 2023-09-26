@@ -1556,7 +1556,9 @@ If you jump in muddy puddles, you must wear your boots
 
 # 20、The School Fete（学校游园会）
 
-Today is the day of the school ==fete==.  Peppa loves coming to the fete.
+Today is the day of the school ==fete==.  （fete只在英国学校的游园会中使用）
+
+Peppa loves coming to the fete.
 
 Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Doy, Rebecca Rabbit and Pedro Pony. Hello Everyone!
 
@@ -1564,13 +1566,17 @@ I love the school fete!! Me too! What do you like best? The fact painting! I lik
 
 I love the ==bouncy== castle the best! I like everything! A very good choice, Peppa. See you later, Peppa!
 
-George, What do you like best? Dinosaur! 
+George, What do you like best? 
 
-Oh, dear! there aren’t any dinosaurs at the fete, George. Maybe we can get you a dinosaur balloon.
+Oh, dear! there aren’t any dinosaurs at the fete, George. （There be可数名词的否定用aren't，不可数用isn't）
+
+Maybe we can get you a dinosaur balloon.
 
 Are you sure they have dinosaur balloons, Daddy Pig. I’m ==certain== of it. 
 
-Can George and I get our faces paintied first? Of course. Miss Rabbit has painted Peppa’s friends as tigers!
+Can George and I get our faces paintied first? （get：去干什么可以用get）
+
+Of course. Miss Rabbit has painted Peppa’s friends as tigers!（成... ：as....）
 
 There you are, Suzy! Now you look like a tiger! Thank you Miss Rabbit! 
 
@@ -1578,7 +1584,7 @@ Wow, I like your face, Suzy. Are you a ==pussycat==? No I’m tiger!
 
 Peppa, would you like your face painted? Yes, please. Can I be an elephant? 
 
-Oh,dear. I don’t know how to do elephants. I can do tigers! Yes a toger, please! 
+Oh,dear. I don’t know how to do elephants. I can do tigers! Yes a tiger, please! 
 
 There you are, Peppa, now you’re a tiger! I’m a tiger! George, What would you like to be? Donosaur!
 
@@ -1638,7 +1644,9 @@ Well, it is your birthday! Ok, Peppa,  I think I know where the sitting room is!
 
 Thank you, Peppa. And here’s some pretty music. Thank you Peppa. 
 
-We need the same number of candles as Mummy’s age. Oh, dear! We haven’t got nearly enough candles.
+We need the same number of candles as Mummy’s age. 
+
+Oh, dear! We haven’t got nearly enough candles（nearly enough：远远不够）.
 
 Daddy? How old is Mummy? I’ll ==whisper== it in you ear. Wow! Really old! You know. 
 
@@ -1682,11 +1690,15 @@ Peppa and George are having their favorite food--- ==spaghetti==
 
 What a lot of noise! Finished! Ah, now we’ll have a bit of quiet! What’s that? It’s ==tooth==.
 
-Where did that come from? Peppa, maybe you should look in the ==mirror==.
+Where did that come from? （问从哪里冒出来）
+
+Peppa, maybe you should look in the ==mirror==.
 
 Oh! It’s my tooth. It’s fallen out! Don’t worry, Peppa.  It’s just milk tooth. They’re meant to fall out.
 
-Will I grow a new one, Mummy? Yes, you will, Peppa. It also means the ==Tooth Fairy== will be playing you a visit.
+Will I grow a new one, Mummy? Yes, you will, Peppa. 
+
+It also means the ==Tooth Fairy== will be paying you a visit.（）
 
 Tooth Fairy? Yes, the Tooth Fairy. If you put the tooth under your pillow tonight, the Tooth Fairy will come.
 
@@ -1714,13 +1726,17 @@ He was to tired, he has fallen asleep. George is not very good at stay awake, bu
 
 I am going to stay awake and see the Tooth Fairy. I’m not going to sleep...
 
-The Tooth Fairy has arrived. But Peppa is asleep. Hello, Peppa. Would you like this coin in return for your tooth?
+The Tooth Fairy has arrived. But Peppa is asleep. Hello, Peppa. 
+
+Would you like this coin in return for your tooth?
 
 What a nice, clean tooth. Thank you, Peppa, Goodnight. Peppa, George, wake up. It’s morning.
 
 I wasn’t asleep! Did the Tooth Fairy come? No! Let’s take a look under your pillow.
 
-Lool! Peppa! The Tooth Fairy has been and she’s left you a coin! Hurry! You fell asleep, didn’t you?
+Look! Peppa! The Tooth Fairy has been（来过、去过） and she’s left you a coin! 
+
+Hurry! You fell asleep, didn’t you?
 
 Well, matbe I fell asleep just for a little bit... Next time,  I will stay awake, and I will see the Tooth Fairy!
 
@@ -1728,9 +1744,11 @@ Well, matbe I fell asleep just for a little bit... Next time,  I will stay awake
 
 # 23、The New Car
 
-Today, Peppa and her family are going for a drive in their red car.
+Today, Peppa and her family are going for a drive in their red car.（出去某事：go for a sth）
 
-Shall we have the ==roof== down? Yes, please! Peppa and George love their car.
+Shall we have the ==roof== down? （shall：要不要做某事）
+
+Yes, please! Peppa and George love their car.（）
 
 Is everybody ready? Ready!  Then let’s go!  I love our car! And our car loves us, too. Don’t you?
 
@@ -1750,15 +1768,17 @@ Would you like the roof down? Yes please. I’ll just ==press== this red button.
 
 When you come back, I will have fixed your car. Thank you, Granddad Dog. Goodbye.
 
-Peppa and her family like the new blue car. There are so many buttons in this new car.
+Peppa and her family like the new blue car. 
+
+There are so many buttons in this new car.（没有主语用There be 句型）
 
 What does the green button do, Daddy.? Let’s see. Magic windows! 
 
 Daddy! Make the magic windows go down. What does the blue button do? I don’t know. Let’s see.
 
-I love this new car. Can we keep it? No, we can keep it, Peppa. We’ve only borrowed it for today.
+I love this new car. Can we keep it? No, we can‘t keep it, Peppa. We’ve only borrowed it for today.
 
-I think going to rain. Yes, I’ll just put the roof up.  Now, which is the button to close the roof?
+I think it’s going to rain. Yes, I’ll just put the roof up.  Now, which is the button to close the roof?
 
 Silly me. Aha! This must be the button. The new car has ==squirted== Daddy Pig with water.
 
@@ -1782,9 +1802,11 @@ I like the new car but I like our old car better. And I think our old car likes 
 
 Granny Pig and Grandpa Pig are masking a ==treasure hunt== for Peppa and George.
 
-Granny Pig is drawing the treasure map. Grandpa Pig is ==burying== the treasure in asecret place in the garden.
+Granny Pig is drawing the treasure map. Grandpa Pig is ==burying== the treasure in secret place in the garden.
 
-Grandpa Pig! Have you finished? Peppa and George will be here soon. No need to ==panic==, Granny Pig!
+Grandpa Pig! Have you finished? （问别人某事是不是做完，用现在完成时，也可以Are you finished/done?）
+
+Peppa and George will be here soon. No need to ==panic==, Granny Pig!
 
 Peppa and her family are here! Quick! Grandpa Pig! They’re here! Almost done! 
 
@@ -1792,13 +1814,19 @@ Grandpa Pig just finished in time. Granny Pig. We’re here!  Hello, my little o
 
 Peppa, George we’ve made you a treasure hunt! Somewhere in the garden is buried treasure! 
 
-Wow! Treasure! Where is it? You have to look for it. Here’s a treasure map for Peppa. 
+Wow! Treasure! Where is it? You have to look for it. 
 
-And George can wear my ==pirate== hat. Ahh, Here! Captain George! The map is a bit difficult. 
+Here’s a treasure map for Peppa. （here is sth for sb：给某人某物）
+
+And George can wear my ==pirate== hat. Ahh, Here! Captain George! 
+
+The map  is a bit difficult. 
 
 Daddy, can you help? Of course, Peppa. I’m very good with maps. It is a bit difficult. 
 
-Daddy Pig, you’re holding the map upside down! Yes, I thought as much. It’s easy! 
+Daddy Pig, you’re holding the map upside down! （upside down：上下反，inside down：里外反，backwards：前后反）
+
+Yes, I thought as much. It’s easy!  
 
 The red ==cross== shows where the treasure is! But where in the garden are those two  apple tree?
 
@@ -1810,7 +1838,9 @@ Well done, Peppa! Let’s see what the message says. Oh, it’s a message from a
 
 Mummy, Can you reas the pirate’s message? Hmm! This pirate has very bad ==handwriting==. 
 
-The pirate’s handwriting is excellent. No, I can’t make it out at all. The pirate has clearly written,”Follow the arrows!”
+The pirate’s handwriting is excellent. No, I can’t make it out at all. （make out：看出来，听出来）
+
+The pirate has clearly written,”Follow the arrows!”
 
 George has found the second clue! Sticks in the shape of an arrow!
 
@@ -1818,7 +1848,9 @@ Look! They point this way!  Peppa and George are following the arrows. Look! Geo
 
 Peppa has found the next clue. A key! Well done! Peppa! Now you just have to find the treasure chest that it unlocks.
 
-But there aren’t any more clues. Maybe you should take another look at the map... 
+But there aren’t any more clues. 
+
+Maybe you should take another look at the map... （再看一眼：take another look....）
 
 Look, Peppa, the map has two apple trees on ot. Here’s an apple tree! And here’s an apple tree!
 
@@ -1836,7 +1868,9 @@ Peppa and George love chocolate coins. Everyone loves chocolate coins.
 
 Granny, Grandpa, this is the best treasure hunt ever!
 
- 
+
+
+
 
 # 25、Not Very well（不太好）
 
@@ -1848,7 +1882,9 @@ Oh,dear! Peppa! You don’t look very well. Don’t worry. I’ll ring Dr.Brown-
 
 Dr.Brown-Bear speaking. Peppa is not very well. Her face is covered in red spots. 
 
-Mnnn! Put Peppa to bed and I’ll come ==straight== round. Dr.Brown Bear has come to make Peppa better.
+Mnnn! Put Peppa to bed and I’ll come ==straight== round. （I‘ll be right there/I’ll be right over：我马上过来）
+
+Dr.Brown Bear has come to make Peppa better.（better：常用让人好起来）
 
 Hello, Peppa， how are you today? I am not very well. Stick your tongue out, please. 
 
@@ -1900,9 +1936,11 @@ Who wants to join me? Me! Me! Me! Me, too! well, I never! A compleete ==recovery
 
 # 26、Snow（下雪了）
 
-Peppa and George are very excited today. It is snowing outside! 
+Peppa and George are very excited today. It is snowing outside!   
 
-Mummy! Can we go and play in the snow? Yes, but it’s very cold outside, so you must ==wrap up warm==.
+Mummy! Can we go and play in the snow?（口语习惯使用：go play in the snow）
+
+ Yes, but it’s very cold outside, so you must ==wrap up warm==.
 
 And don’t forget to wear your hats, and ==scarves== and gloves. It is very cold outside.
 
@@ -1958,7 +1996,11 @@ Wow! Let’s go! I’ll map-read and Mummy Pig will drive. Are you sure, Daddy P
 
 When you map-read, we always get lost and you get grumpy. We will not get lost and I will not get grumpy.
 
-Windy Castle, here we come! Are we nearly there yet? Not quite. Would you like to play a game?
+Windy Castle, here we come! 
+
+Are we nearly there yet? （yet在疑问句或否定句里的作用是：谈论一个还没有发生但可能发生你预计会发生的事）
+
+Not quite. Would you like to play a game?
 
 Yes, Please! Let’s play “I Spy”. Okay. I’ll go first. 
 
@@ -1966,11 +2008,11 @@ Daddy Pig has to secretly look  at something and the others have to guess what i
 
 I spy with my little eye, something colored “red”. My dress! That’s red! No! It’s not your dress.
 
-Hmmmm! The car! That’s right! Our ren car. My go. I spy with my little eye, something “blue”.
+Hmmmm! The car! That’s right! Our red car. My go. I spy with my little eye, something “blue”.
 
-Hmmm! George’s blue shirt! Nope! Is it something in the car? No. Give up? The sky. The blue sky!
+Hmmm! George’s blue shirt! Nope! Is it something in the car? No. Give up? The sky. The blue sky! I Win.
 
-I Win. Daddy Pig? Do you know where we are? I know exactly where we are. 
+Daddy Pig? Do you know where we are? I know exactly where we are. 
 
 Although.. this road doesn’t look the same as it does on the map. Oh, Daddy Pig! We’re lost!
 
@@ -2012,21 +2054,23 @@ Granny and Grandpa are waving at us!  I love Windy Castle
 
 Peppa and George are playing in the garden. To me George! You threw the ball too hard, George!
 
-So the rules say, I win! Now it’s my turn. I win agian! Peppa, George. 
+So the rules say, I win! Now it’s my turn. I win agian! Peppa, George. （the rule say:按照规则来说）
 
 Today your big ==cousin==, Chloe is coming to visit! Yilll! Cousin Chloe!
 
-George, Chloe is a big girl, like me. So, don’t be sad if she finds you to0 little to play with.
+George, Chloe is a big girl, like me. So, don’t be sad if she finds you too little to play with.
 
-I’m sure Chloe will play with both of you. Chloe is here! 
+I’m sure Chloe will play with both of you（你们两个都/you twou也可以）. Chloe is here! （确实什么：I’m sure ....）
 
-Aunty Pig has ==brought== Chloe to ==spend== the day at Peppa’s house. Chloe is Peppa and George’s cousin.
+Aunty Pig has ==brought== Chloe to ==spend== the day at Peppa’s 	house. Chloe is Peppa and George’s cousin.
 
 Chloe is a bit ==older== than Peppa and George. Hello, Chloe. Hello, Peppa. Hello George. See you later.
 
 Do you want to play a game? Yes! Let’s play “Catch!” Peppa loves playing  “Catch”.
 
-Do you still play “Catch”? That’s a game for little children. Oh, We only play “Catch” because George likes it.
+Do you still play “Catch”? That’s a game for little children. 
+
+Oh, We only play “Catch” because George likes it.（only/lust... because.....：因为才....）
 
 Ok, Let’s play it for George. Do you play with the proper rules or the bady rules? Proper rules!
 
@@ -2086,17 +2130,21 @@ Everyone loves jumping up and down in muddy puddles, even grown-up girl!
 
 It is teatime. And Mummy Pig has a surprise for everyone. Today is day for pancakes!
 
-Pancakes! ==Delicious==! I love pancakes! Everyone loves pancakes! I’m the expert at flipping the pancakes over!
+Pancakes! ==Delicious==! I love pancakes! Everyone loves pancakes! 
 
-Leave that to me! Are you sure, Daddy Pig? 
+I’m the expert at flipping the pancakes over! Leave that to me! Are you sure, Daddy Pig? 
 
-Last timeyou got a bit grumpy when you dropped the pancake on the floor. I did not get grumpy.
+Last time. you got a bit grumpy when you dropped the pancake on the floor. （you were a bit grumpy，用过去式也可以，用got a bit 可以体现从不焦躁到焦躁的过程）
 
-There was a problem with the ==frying== pan. Mummy, Can we help make the pancakes, please?
+I did not get grumpy. There was a problem with the ==frying== pan.（什么东西有问题，用there be with sth）
+
+Mummy, Can we help make the pancakes, please?
 
 Yes, you can help me make the ==batter==. First, I put some ==flour== in the bowl. Now I add an egg. Now, the milk.
 
-And I give it all a ==stir==. Mummy, can I stir? Yes, of course Peppa. Peppa loves stirring. Goerge wants to stir as well.
+And I give it all a ==stir==. （可以用 then I stir it all.）
+
+Mummy, can I stir? Yes, of course Peppa. Peppa loves stirring. Goerge wants to stir as well.
 
 No, George, like this! Ok, that’s enough stirring. You two sit at the table while I cook the pancakes.
 
@@ -2138,7 +2186,7 @@ Granny Pig! Grandpa Pig! Hello, my little ones! Peppa, George, into your beds. Q
 
 Goodnight. ==Sleep tight==! Goodnight Mummy! Goodnight Daddy! What little ==darlings==. Now go to sleep quickly.
 
-Yes, Mummy. So well ==behaved==! Mummy Pig and Daddy Pig are leaving for their evening out.n
+Yes, Mummy. So well ==behaved==! Mummy Pig and Daddy Pig are leaving for their evening out.
 
 Peppa and George are so good. They just fell asleep when Mymmy Pig told them to! 
 
@@ -2178,7 +2226,7 @@ The little piggies are asleep! And so are the big piggies!
 
 # 31、Ballet Lesson（芭蕾舞课）
 
-Peppa is going to her first ==balle lesson==. This is Madame Gazelle, the ballet teacher.
+Peppa is going to her first ==ballet lesson==. This is Madame Gazelle, the ballet teacher.
 
 You must be young Peppa! I am Madame Gazelle!  Hello, Madame! So sweet! Welcome to your first lesson of ballet!
 
@@ -2212,10 +2260,6 @@ Ah, the petit jete! Daddy! You know the funny words! Mummy Pig and I used to be 
 
 Do be careful, Daddy Pig. Our favorite was the ==pas de deux==!  
 
-That wasn’t quite how I remembered it. Silly Daddy Pig! Maybe we should leave the ballet to Peppa!
-
-Yes! I am the best at it! I am a beautiful swans!
-
 
 
 # 32、Thunderstorm（暴风雨）
@@ -2224,7 +2268,7 @@ It is a lovely, sunny day. Peppa and George are having picnic.
 
 Here’s some orange juice for you, Teddy. What do you say? Thank you very much, Peppa!
 
-You are very welcome, Teddy. Here’s some orange juice for you, Mr. Dinosaur. And waht do you day?
+You are very welcome, Teddy. Here’s some orange juice for you, Mr. Dinosaur. And waht do you say?
 
 You are very welcome, Mr. Dinosaur. Would Teddy or Dr. Donosaur like a cookie? We’re not very hungry.
 
@@ -2240,15 +2284,19 @@ The sky is getting darker and darker. There is going to be a thunderstorm.
 
 Peppa, George, did you bring all your toys in from the garden? Dinosaur! Good, Mr. Dinosaur is safe.
 
-Teddy! I left Teddy in the garden! He’ll get wet! Don’t worry, Peppa. Daddy Pig will ==rescue== Teddy!
+Teddy! I left Teddy in the garden! He’ll get wet! D;on’t worry, Peppa. Daddy Pig will ==rescue== Teddy!
 
-You’d better ==hurry==, Daddy Pig. It’s just about to rain! I know all about thunderstorms.
+You’d better ==hurry==, Daddy Pig. It’s just about to rain! I know all about thunderstorms.（about to:即将要/马上要）
 
-It won’t rain for ages. Ad I thought, ==plenty== of time before it rains. Poor Teddy! He’s ==soaking== wet!
+It won’t rain for ages. As I thought, ==plenty== of time before it rains. Poor Teddy! 
+
+He’s ==soaking== wet!（soaking wet：湿透了）
 
 Yes, Poor Teddy! Let’s get him ==dry==! Poor Teddy! There you are, Teddy! All dry!
 
-What about poor Daddy? I;m soaking wet, too! Oh! Sorry, Daddy Pig! Let’s get you dry!
+What about poor Daddy? （那....：what about ...）
+
+I’m soaking wet, too! Oh! Sorry, Daddy Pig! Let’s get you dry!
 
 There you are, Daddy Pig! Nice and dry! Oh! the rain is coming  in the house! The floor is getting wet!
 
@@ -2256,13 +2304,19 @@ Oh, dear! what can we do, Daddy Pig? Don’t worry. Daddy Pig is using a ==bucke
 
 Well-done, Daddy Pig! Easy as pie! Er? what? Quick fink something else to catch the water!
 
-Well-Done, Peppa. Easy as pie! Mummy! The thunder bangs are very loud! It’s okay, chlidren don’t be ==frightened==.
+Well-Done, Peppa. Easy as pie! Mummy! 
 
-Let’s count between each falsh and bang. The higher we can count, the ==further== away the thunderstorm is.
+The thunder bangs are very loud! It’s okay, chlidren don’t be ==frightened==.
+
+Let’s count between each falsh and bang. 
+
+The higher we can count, the ==further== away the thunderstorm is.（越....就越....）
 
 One..Two...Three... That’s three. One.. Two..Three...Four...Five That’s five! The thunderstorm is going away!
 
-The thunderstorm is over! The thunderstorm has filled the garden with muddy puddles! 
+The thunderstorm is over! 
+
+The thunderstorm has filled the garden with muddy puddles! （把....里放满....：fill sth with sth）
 
 Peppa loves jumping up and down in muddy puddles. Everyone loves jumping up and down in muddy puddles.
 
@@ -2272,13 +2326,17 @@ I love thunderstorm, they make muddy puddles! Splish
 
 # 33、Cleaning the Car（清洁汽车）
 
-Daddy Pig is taking the family for drive in the country. Come on. Is everyone reday? Ready!
+daddy pig  is takeing the family for a drive in the country. （兜风：for a drive）
 
-Yes, Daddy Pig, we are ready. But the car isn’t reday! Look how messy it is! Oh, it’s not too bad.
+come on. is everyone ready. ready, but the car isn’t ready
+
+Daddy Pig is taking the family for drive in the country. Come on. Is everyone ready? Ready!
+
+Yes, Daddy Pig, we are ready. But the car isn’t ready! Look how messy it is! Oh, it’s not too bad.
 
 You should see how messy it is inside! Oh ==Naughty==, messy Daddy! Naughty, messy Daddy!
 
-Look at aoo this ==rubbish==. Newspapers! They’s mine. Sweet! They’s mine! Mr, Dinosaur! 
+Look at all this ==rubbish==. Newspapers! They’s mine. Sweet! They’s mine! Mr, Dinosaur! 
 
 We must clean the car before we go for a dirve. Oh, right you are, Mummy Pig.
 
@@ -2336,7 +2394,9 @@ Maybe George will like the vegetables when they’re made into a lovely salad.
 
 Lovely ==fresh== tomatoes, lettuce and cucunber! First, we have to wash them! 
 
-Peppa and George help Granny Pig wash the vagetables. Maybe that’s enough washing.
+Peppa and George help Granny Pig wash the vagetables. 
+
+Maybe that’s enough washing.（...可以了：that’s enough ...）
 
 Granny Pig has made the tomatoes, lettuce and cucumber into a salad. Grandpa Pig can you call everyone to lunch?
 
@@ -2446,7 +2506,9 @@ She loved looking at herself in the ==mirror==. I am so pretty! Who else was liv
 
 Er...Well.. The others in the castle were...the small Prince, Queen Mummy and King Daddy! That is right.
 
-They were all living there as well. Did King Daddy have a bug tummy? Of course not!
+They were all living there as well. （as，too， also: 也）
+
+Did King Daddy have a bug tummy? Of course not!
 
 He was very handsome like me. Anyway, there was also a dragon! Dinosaur? A dinosaur? Oh, yes, it’s was’t a dragon.
 
@@ -2464,7 +2526,9 @@ Peppa, are you sleepy? No, Daddy. I am not sleepy at all. But some body is. Geor
 
 You’ll miss the end of the story! Well! Peppa might not be sleepy but the Sleepy Princess ==certainly==was.
 
-Looking at herself all day in the mirror has completely worn her out. Let’s carry you to bed. Goodnight.
+Looking at herself all day in the mirror has completely worn her out. （wear ... out：让....筋疲力尽）
+
+Let’s carry you to bed. Goodnight.
 
 The Sleepy Princess was so sleepy. She had fallen fast asleep. Thank yor for that story, King Daddy! 
 
@@ -2480,7 +2544,7 @@ Before you come in the house, you must take off your muddy boots. Yes, Granny.
 
 Peppa, George, look what I’ve made! Little ==curtains==! Ooooo! What are the little curtains for, Granny!
 
-It’s a surprise! Do you want to see what  Grandpa Pig has made for you, in the garden? Yes, please.
+It’s a surprise!  Do you want to see what  Grandpa Pig has made for you, in the garden? Yes, please.
 
 Grandpa Pig. Hello, Peppa, George. Look what I’ve made for you. A tree house! A tree house! For George and me?
 
@@ -2488,13 +2552,13 @@ And the little curtains are for your tree house! Hurry!
 
 Peppa and George love their tree house!
 
-Thank you, Grandpa Pig! Who wants to go inside first?  Me! Me! in you go then! 
+Thank you, Grandpa Pig! Who wants to go inside first?  Me! Me! in you go then! （in提前）
 
 Before I go in my tree house I must take off muddy boots! I’m in my tree house. I’m in my tree house!
 
 George, would you like to go in the tree house, too? Yes, who is it? 
 
-A young pig named “George” would like to pay a visit. Can he come in? As long as he takes off his muddy boots.
+A young pig named “George” would like to pay a visit（也可以用visit you，）. Can he come in? As long as he takes off his muddy boots.
 
 George take your boots off then you can visit Peppa in the tree house. Who is it? George?
 
@@ -2516,13 +2580,17 @@ Er... I don’t think I can fit through the door.  That’s because you tummy is
 
 I know! Daddy Pig can climb in through the top! Peppa, George Mummy Pig and Daddy Pig are all in the tree house!
 
-Granny, I love our tree house! I don’t want to ever come out! That’s nice , Peppa.
+Granny, I love our tree house! I don’t want to ever come out! （ever：时间线上的任何一点，任何时间）
+
+That’s nice , Peppa.
 
 But are you sure you don’t want to visit me in my house? No, thank you, Granny. 
 
-In that case Grandpa Pig and I will just have to eat my homemade cookie all by ourselves.
+In that case Grandpa Pig and I will just have to eat my homemade cookie all by ourselves.（in that case，既然这样）
 
-Cookies! Granny Pig! Here are my home-made cookies! But, if you want to come in,  you have to say the secret words.
+Cookies! Granny Pig! Here are my home-made cookies! （Here：给东西别人的时候用，倒装句）
+
+But, if you want to come in,  you have to say the secret words.
 
 That’s easy. “Daddy’s Big Tummy!” That’s right! Well, I still think that  those are very silly secret words.
 
@@ -2530,7 +2598,7 @@ That’s easy. “Daddy’s Big Tummy!” That’s right! Well, I still think th
 
 # 38、Fancy Dress Party（化装舞会）
 
-Peppa and George are having a ==fancy== dress party. All their friend are ==invited==.
+Peppa and George are having a ==fancy== dress party. All their friend are ==invited==.（被动态）
 
 Peppa is dressed as a fairy princess. And George is dressed as a dinosaur.
 
@@ -2550,7 +2618,9 @@ I’m Princess Peppa. You must ==bow== when you speak to me. Hello, your ==majes
 
 I’m Nurse Suzy! Open wide and say “ahhh”. I’m a clown.  Do something funny!
 
-Rebecca why are you dressed as a carrot? I like carrots. A scary dinosaur! Peppa is ==admiring== herself in the mirror.
+Rebecca why are you dressed as a carrot? I like carrots. A scary dinosaur! 
+
+Peppa is ==admiring== herself in the mirror.
 
 Mirror, mirror on the wall, who is the ==fairest== of them all? You are, Peppa. 
 
@@ -2558,7 +2628,9 @@ Hello, Peppa. Hello, I’m little fairy princess. I’m a witch.  And I’ve got
 
 I’ve got a magic wand, too! I can turn you into a frog.  And I’ll turn you into a frog.
 
-Oh, dear. George is scard of his own ==reflection==. Silly George, look It’s you in the mirror.
+Oh, dear. George is scard of his own ==reflection==. （be scard of：被什么吓到）
+
+Silly George, look It’s you in the mirror.
 
 Children, It’s time to decide who has the best fancy dress costume. We need a ==judge==. 
 
@@ -2608,7 +2680,9 @@ It’s called a ==throne==. It’s beautiful! This is the quenn’s dress. It’
 
 They didn’t have television them. No television! But they did have computers? No, they didn’t have computers, either.
 
-What did they do all day? Mummy, If I was the queen, I would eat as much cake as I wanted.
+What did they do all day? 
+
+Mummy, If I was the queen, I would eat as much cake as I wanted.（虚拟语气，）
 
 Peppa imagines being a queen. delicious! Is there anything else you would care for, Queen Peppa?
 
@@ -2670,13 +2744,13 @@ The same for me and one for Daddy Pig, please. And what would young Mr.George li
 
 Dinosaur. A dinosaur! Sliiy George. He always says “dinosaur” for everything! 
 
-well it just so ==happens== that I do have a dinosaur shaped ice-lolly.
+well it just so ==happens== that I do have a dinosaur shaped ice-lolly.（happens有碰巧的意思，名词+shaped = 什么形状的）
 
 George, you should eat your  ice-lolly before it ==melts==. 
 
 George loves his dinosaur ice-lolly so much, he doesn’t want to eat it. Thank you, Ms. Rabbit!
 
-Enjoy the weather! George, I really think you should ear your ice-lolly before it melts adn falls on the ground.
+Enjoy the weather! George, I really think you should ear your ice-lolly before it melts and falls on the ground.
 
 Oh, dear! George’s dinosaur ice lolly has melted and fallen on the ground. Never mind, George.
 
@@ -2710,7 +2784,7 @@ Hello, Hello, everyone! Hello, big brother! Uncle Pig is Daddy Pig’s brother.
 
 Chloe Pig is Peppa and George’s cousin. Hello, Chloe! Hello, Peppa! Hello, George! 
 
-I want to show you something!Wait for us! This is my new ==puppet theater==! My daddy made it for me.
+I want to show you something! Wait for us! This is my new ==puppet theater==! My daddy made it for me.
 
 I’ve made two puppets already! this one is called Chloe! Hello, I am Chloe Pig. And this one is my daddy.
 
@@ -2724,11 +2798,13 @@ Ok, a scary dinosaur puppet. Chloe is making George a dinosaur puppet. It needs 
 
 There. A scary dinosaur. Lunch time everyone! After lunch we’ll do a puppet show!! Hurry!
 
-Aunty Pig has made ==spaghetti== fir lunch. This spaghetti is delicious! Best spaghetti ever!
+Aunty Pig has made ==spaghetti== for lunch. This spaghetti is delicious! Best spaghetti ever!
 
-You can tell you two are brothers! Alike in everyway. what do yo mean? we are completely different!
+You can tell you two are brothers! （tell：看得出来）
 
-Peppa, George and I are going to do a puppet show! ==Fantastic==! Call us when you’re ready. See you later
+Alike in everyway. what do yo mean? we are completely different!
+
+Peppa, George and I are going to do a puppet show! ==Fantastic==! Call us when you’re ready. See you later.
 
 A puppet show! That shounds fun. Have I got time for some more spaghetti? Could I have some more, too?
 
@@ -2738,13 +2814,15 @@ A scary dinosaur! Eeek! I say! That’s very good!  I am Uncle Pig. Hello, Uncle
 
 It look just like you! I think they’ve made my tummy a bit big. I did enjoy my lunch! 
 
-Uncle Pig! Are you doing to fall asleep and snore like you aleays do? what do you mean?
+Uncle Pig! Are you doing to fall asleep and snore like you always do? what do you mean?
 
 Daddy says you always fall asleep and snore loudly like this. Peppa, your daddy’s right.
 
 I do snore like this. Oh, Daddy Pig! You shouldn’t have said those things about Uncle Pig!
 
-I don’t think Daddy Pig or Uncle Pig can hear you!  Daddy Pig and Uncle Pig have fallen asleep.
+I don’t think Daddy Pig or Uncle Pig can hear you!  (否定句否定并列的成分用or)
+
+Daddy Pig and Uncle Pig have fallen asleep.
 
 You can tell they are brothers! Eh? what happened? Has the puppet show started yet?
 
@@ -2764,13 +2842,17 @@ I’m very fit! I’ll show you! what shall I do first? Touch your ==toes== . Li
 
 Daddy! Stop pretending that you can’t touch your toes. Err... I’m not pretending, Peppa.
 
-Daddy Pig really cannot touch his toes! Oh, dear, Daddy That’s not very good!
+Daddy Pig really cannot touch his toes! 
+
+Oh, dear, Daddy That’s not very good!
 
 Maybe I should do a bit of exercise. Yes, Daddy. And I will start... tomorrow! 
 
 Daddy Pig! You have to start exercise now! Don’t worry, Daddy, I will help you. Oh, alright!
 
-Peppa, you’re in charge of getting mee fit. what should I do first? First, you must do some ==press-ups==! Easy!
+Peppa, you’re in charge of getting me fit. （in charge of：负责）
+
+what should I do first? First, you must do some ==press-ups==! Easy!
 
 One...Two... There. Very good, Daddy. Now, I want you to do... One hundred! One hundred? Yes!
 
@@ -2786,19 +2868,23 @@ Maybe Daddy will have more success with my old exercise bike. Aha! This look lik
 
 I’ll be able to cycle and watch Tv at the same time. It’s impossible! This bike is too noisy. I can’t hear the TV!
 
-You’ve hot to get fit somehow. I know! You can use my bicycle. Yes, and then you’ll get some ==fresh== air as well.
+You’ve got to get fit somehow. I know! You can use my bicycle. Yes, and then you’ll get some ==fresh== air as well.
 
 Daddy Pig is going to ride on Peppa’s little bicycle. Daddy, these the ==pedals==. These are the ==brakes==...
 
-And this is the ==bell==. Yes! Yes! Thank you, Peppa, I know. Bye bye. Easy as pie! Getting fit is quite hard work.
+And this is the ==bell==. Yes! Yes! Thank you, Peppa, I know. Bye bye. Easy as pie! 
+
+Getting fit is quite hard work.
 
 Aha! Now I can get fit without having to peda! Daddy Pig is going very fast. Oh! Maybe I’d better slow down.
 
-Arrhg! The brakes aren’t strong enough! Daddy Pig has been gone for a long time. 
+Arrhg! The brakes aren’t strong enough! 
+
+Daddy Pig has been gone for a long time. （现在完成进行时）
 
 Mummy, where can Daddy be? Don’t worry, Peppa. Daddy must be really enjoying himself to be away for so long.
 
-Daddy! where have you been? 
+Daddy! where have you been? （可以用 where did you go?）
 
 I whizzed all the way down the hill, and then I had to push the bike all the way  back up again. Oh! Poor Daddy Pig!
 
@@ -2828,7 +2914,7 @@ But Mummy we’re playing dollies and dinosaurs. You can play again when you’v
 
 But it’s all George’s mess. Is it really? So this must bo one of George’s lovely dresses? No.
 
-Well, maybe some of the messes is mine. I’ll helo Geroge tidy and Mummy Pig can help Peppa. We can have a race.
+Well, maybe some of the messes is mine. I’ll help Geroge tidy and Mummy Pig can help Peppa. We can have a race.
 
 Girls ==against== boys! Good idea! Let’s see who can tidy up first. Ready, steady. go! We’re winning! No, you’re not!
 
@@ -2850,7 +2936,9 @@ We all win. Look how tidy the room is. Hurry! What a tidy room! Well done. every
 
 Mummy, now that we’ve tidied our room,  can we play dollies and dinosaurs again? 
 
-Yes, you can ==carry on== with your game now. Yipee!  Where are my dolls? Where is Mr, Dinosaur?
+Yes, you can ==carry on== with your game now. （继续：go on，carry on，）
+
+Yipee!  Where are my dolls? Where is Mr, Dinosaur?
 
 Here they are! Oh, dear! the room is ==untidy== again. Well it was tidy for a bit.
 
@@ -2910,7 +2998,9 @@ We should put this lovely, new picture on  the wall. Leave it to me . I am the D
 
 Are you sure you can di it? Of course! I’ll just put a ==nail== in the wall and hang the picture on it. Very good.
 
-I’m just off to visit Granny and Grandpa Pig. I see you later. And please, don’t make a mess. Mess? Goodbye.
+I’m just off to visit Granny and Grandpa Pig. （off：离开）
+
+I see you later. And please, don’t make a mess. Mess? Goodbye.
 
 Daddy, can we help put up the picture? You can watch and then you’ll learn how to do it properly.
 
@@ -2948,7 +3038,7 @@ Yes, I can see you’ve been doing nothing. I thought you were going to put the 
 
 In all the ==excitement==. Daddy Pig has forgotten to put the picture up. I’n no expert  but I’m sure it’s quite easy.
 
-Yes, that didi look quite easy. But when you did it, Daddy, it looked really hard. Peppa, don’t tell anymore!
+Yes, that did look quite easy. But when you did it, Daddy, it looked really hard. Peppa, don’t tell anymore!
 
 
 
@@ -2988,7 +3078,7 @@ Please. can I have my straw hat? Yes, you may, Daddy. That’s nice. Maybe I’l
 
 George, let’s make sand castles! Peppa and George are making sand castles! 
 
-First, we put sand inthe buckets. Like this. We turn the buckets upside down, and ==tap== them...
+First, we put sand in the buckets. Like this. We turn the buckets upside down, and ==tap== them...
 
 And ==lift== the buckets up! Hey, presto! A sandcastle! Hey, presto! Another sand castle!
 
@@ -3056,7 +3146,9 @@ We’re all going to have tea with Mr. Skinnylegs. Who want s tea? Me, please!  
 
 Peppa loves playing tea parties. Here’s you tea, Mr Skinnylegs. What’s that.
 
-You want to say”hello” to my daddy? Hello, Mr. Daddy Pig! Err.. that’s all right , Peppa.
+You want to say”hello” to my daddy? Hello, Mr. Daddy Pig! 
+
+Err.. that’s all right , Peppa.
 
 Let Mr. Skinnylegs drink his tea... You’re not scared, are you, daddy? Oh, on. of course not...
 
@@ -3090,13 +3182,13 @@ It must be almost as old as you are. This old boat can go faster than your ==rus
 
 Alright, you old sea-dog, race you! ==Prepare== to lose, water-hog! you two are ==acting== like little children!
 
-Granddad Dog called me a water-hog. You called him a sea-dog first, Grandpa. You should say”sorry”.
+Granddad Dog called me a water-hog. You called him a sea-dog first, Grandpa. You should say ”sorry”.
 
-Only if he says”sorry” first. Granddad say”sorry” to Grandpa Pig.  He is your best friend.
+Only if he says ”sorry” first. Granddad say ”sorry” to Grandpa Pig.  He is your best friend.
 
 No, He’s a water-hog and my boat is faster than his. Alright, sea-dog! Let’s race to the next ==bridge==!
 
-On the count of three. One...Two...go. You started too soon! Catch me if you can,water-hog! Sea-dog.
+On the count of three. One...Two...go. You started too soon! Catch me if you can, water-hog! Sea-dog.
 
 Is that as fast as you can do? Can’t catch me! I win! Oh, dear! Grandpa Pig’s boat has run out of petrol.
 
@@ -3104,11 +3196,13 @@ Very clever, Captain Grandpa. Maybe I did go a bit too fast. How will we get hom
 
 Look, there’s Granddad Dog. Granddad Dog can ==tow== us home! I’m not being towed by that sea-dog.
 
-I haven’t offered to tow the water-hog. Will you two ever grow up?
+I haven’t offered to tow the water-hog. (offer to...：主动提出做某事)
 
-Grandpa say”sorry” to Granddad Dog. I’m sorry. I called you a sea-dog.
+Will you two ever grow up?
 
-Granddad, say”sorry” to Grandpa Pig. I’m sorry. I called you a water-hog. That’s nice.
+Grandpa say ”sorry” to Granddad Dog. I’m sorry. I called you a sea-dog.
+
+Granddad, say ”sorry” to Grandpa Pig. I’m sorry. I called you a water-hog. That’s nice.
 
 Granddad Dog, Would you be so kind as to tow us home? It would be my ==pleasure==, madam!
 
@@ -3116,7 +3210,7 @@ Catch this, Captain! Aye-Aye, Skipper
 
 Granddad Dog is Grandpa Pig’s very best friend. Granddad Dog is towing Grandpa Pig’s boat home.
 
-The main thing is I won the race. Grandpa Pig! Naughty Grandpa Pig! Peppa, Ring the bell
+The main thing is I won the race. Grandpa Pig! Naughty Grandpa Pig! Peppa, Ring the bell.
 
  
 

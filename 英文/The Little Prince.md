@@ -7,7 +7,7 @@
 Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest. 
 当我还只有六岁的时候，在一本描写原始森林的名叫《真实的故事》的书中，看到了一副精彩的插画
 
-It was a picture of a boa constrictor in the act of swallow  ing an animal. Here is  a copy of the drawing.
+It was a picture of a boa constrictor in the act of swallowing an animal. Here is  a copy of the drawing.
 画的是一条蟒蛇正在吞食一只大野兽。这就是那幅画的摹本
 
 ![image-20230107000135805](../../App/Typora/assets/The Little Prince_image/image-20230107000135805.png)
@@ -203,6 +203,7 @@ Where I live, everything is very small, What I need is a sheep. Draw me a sheep.
 我住的地方非常小，我需要一只羊。给我画一只羊吧。
 
 So then I made a drawing. He looked at it carefully, then he said:
+
 
 
 “No, This sheep is already very sickly, Make me another.”
