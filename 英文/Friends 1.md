@@ -652,7 +652,7 @@ Well now, how do you fit into this whole thing.
 
 Well, Carol says she and Susan want me to be involved, but if I’m not comfortable with it, I don’t have to be involved, basically it’s totally up to me.
 
-# She is so great! I miss her.
+She is so great! I miss her.
 
 What does the mean by “involved”?
 

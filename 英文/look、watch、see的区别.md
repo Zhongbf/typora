@@ -12,7 +12,7 @@ watch me dance、watch a video、watch a football game
 
 see
 
-看到
+看到，结果
 
 
 
